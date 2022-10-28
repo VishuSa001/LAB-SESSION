@@ -1,3 +1,4 @@
+// Write a program to print to happyDiwali using loop.
 import java.util.Scanner;
 
 public class HappyDiwali {
